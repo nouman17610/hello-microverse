@@ -93,7 +93,7 @@ After you're finished please remove all the comments and instructions!
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 
-- [Live Demo Link](https://github.com/nouman17610/hello-world/pull/1)
+- [Live Demo Link](https://github.com/nouman17610/hello-microverse/pull/1)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -104,7 +104,7 @@ After you're finished please remove all the comments and instructions!
 
 ### Prerequisites
 
-In order to run this project you need to clone github repository using command: git clone <https://github.com/nouman17610/hello-world>
+In order to run this project you need to clone github repository using command: git clone <https://github.com/nouman17610/hello-microverse>
 
 <!--
 Example command:
@@ -208,7 +208,7 @@ Example:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/nouman17610/hello-world/issues).
+Feel free to check the [issues page](https://github.com/nouman17610/hello-microverse/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -226,7 +226,7 @@ If you like this project please support the project by adding your contributions
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 
-I would like to thank my coding partner Muhammad Faiz who discussed the technical areas with me.
+I would like to thank my coding partner Prem Chand who discussed the technical areas with me.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
