@@ -59,7 +59,7 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a name="about-project"></a>
+# 📖 [hello_microverse] <a name="about-project"></a>
 
 
 **[hello_microverse]** is a starting project to implement Linters and creation of branches.
